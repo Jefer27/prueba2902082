@@ -1,7 +1,12 @@
 public class test {
 
     public static void main(String[] argus){
-        System.out.println("i love java");
+       String text = "variable ";
+       
+        System.out.println(text + "i love java second");
     }
+
+
+
 
 }
